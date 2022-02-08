@@ -14,5 +14,3 @@ My aim is to get first in every problem's status on this website,to achieve this
 * Year: Session 2021-22
 * Semester: Second Semester
 * Lectuer: Mr P Jimmieson	Phil@liverpool.ac.uks
-## Source of the Question
-https://student.csc.liv.ac.uk/JudgeOnline/problemset.php
