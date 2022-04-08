@@ -6,9 +6,9 @@
  <h3 align="center" backgroundcolor="red">⭐ If the code has helped you, please stars this, thank you very much!</h3>
  
  ## Must See Before Read My code
-* Operating System: Win11
-* Programming Languages: C++ and C#
-* IDE: Visual Studio 2019 Community Edition
+* Operating System: Win10
+* Programming Languages: C
+* IDE: CLion 2021.3 Community Edition
 * All codes are related to labs and assignments,and all codes were uploaded after the assignment deadline
 
 All the problems the title come from this site https://student.csc.liv.ac.uk/JudgeOnline/problemset.php 
@@ -18,4 +18,4 @@ My aim is to get first in every problem's status on this website,to achieve this
  ## Module Specification
 * Year: Session 2021-22
 * Semester: Second Semester
-* Lectuer: Mr P Jimmieson	Phil@liverpool.ac.uks
+* Lectuer: Mr P Jimmieson	Phil@liverpool.ac.uk (One of my favorite lecturers)
