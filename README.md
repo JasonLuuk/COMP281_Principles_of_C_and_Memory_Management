@@ -9,7 +9,7 @@
 * Operating System: Win10
 * Programming Languages: C
 * IDE: CLion 2021.3 Community Edition
-* All codes are related to labs and assignments,and all codes were uploaded after the assignment deadline
+* All codes are related to labs and assignments and all codes were uploaded after the assignment deadline
 
 All the problems the title come from this site https://student.csc.liv.ac.uk/JudgeOnline/problemset.php 
 
