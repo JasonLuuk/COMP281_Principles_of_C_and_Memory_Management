@@ -13,9 +13,11 @@
 
 All the problems the title come from this site https://student.csc.liv.ac.uk/JudgeOnline/problemset.php 
 
+⚠️Please adhere to the University's Academic Integrity Policy and I accept no responsibility for suspected academic misconduct of any kind.⚠️
+
 My aim is to get first in every problem's status on this website,to achieve this, I try to keep the size of my code as small as possible, which means I use a lot of single-character variable names and meaningless function names (Never use meaningless variable names and meaningless function names, unless it's just a robot check your code), which will take you extra time to understand my code, and that's how you learn!
 
  ## Module Specification
 * Year: Session 2021-22
 * Semester: Second Semester
-* Lectuer: Mr P Jimmieson	Phil@liverpool.ac.uk (One of my favorite lecturers)
+* Lectuer: Mr P Jimmieson (One of my favorite lecturers)
