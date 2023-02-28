@@ -21,3 +21,7 @@ My aim is to get first in every problem's status on this website,to achieve this
 * Year: Session 2021-22
 * Semester: Second Semester
 * Lectuer: Mr P Jimmieson (One of my favorite lecturers)
+
+ ## Module Results
+* Assignment 1: 94
+* Assignment 2: 98
